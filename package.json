@@ -1,0 +1,17 @@
+{
+  "name": "career-path-guidance-system",
+  "version": "1.0.0",
+  "description": "A comprehensive AI-powered career recommendation platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saishashank2425",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "body-parser": "^1.19.0"
+  }
+}
